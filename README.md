@@ -1,2 +1,1 @@
-# prepcorse-Henry
-Este es un repositorio del modulo 2 de Henry
+prueba de como crear un repositorio y clonarlo desde hithub a mi computadora.
